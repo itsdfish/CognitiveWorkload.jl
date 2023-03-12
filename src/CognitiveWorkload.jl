@@ -1,5 +1,9 @@
 module CognitiveWorkload
+    export AbstractActivity
+    export Activity
+    export compute_mean_workload
+    export compute_workload 
 
-# Write your package code here.
-
+    include("structs.jl")
+    include("functions.jl")
 end
