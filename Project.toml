@@ -1,12 +1,13 @@
 name = "CognitiveWorkload"
 uuid = "77a2d163-1e95-47b8-a916-e2f2ba09f7e1"
-authors = ["itsdfish <itsdfish@gmail.com> and contributors"]
-version = "1.0.0-DEV"
+authors = ["itsdfish"]
+version = "0.0.1"
 
 [deps]
 SafeTestsets = "1bc83da4-3b8d-516f-aca4-4fe02f6d838f"
 
 [compat]
+SafeTestsets = "0.0.1"
 julia = "1"
 
 [extras]
